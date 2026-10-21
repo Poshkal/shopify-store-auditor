@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+customer-data/
+__pycache__/
+.local-audit/
+.output/
+*.pyc
